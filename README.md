@@ -8,7 +8,7 @@
 This project is a showcase of my React.js knowledge and the skills I’ve gained so far. 😊
 If you enjoyed exploring this website, I’d love it if you could give me a ⭐ on GitHub to encourage me! Your support means a lot.
 
-  ![Screenshot 2024-12-27 130708](https://github.com/user-attachments/assets/507b22ca-8eb0-4864-b982-d967fec32dd6)
+![Screenshot 2024-12-27 130708](https://github.com/user-attachments/assets/507b22ca-8eb0-4864-b982-d967fec32dd6)
 
 ![Screenshot 2024-12-27 130724](https://github.com/user-attachments/assets/5b0490d7-717d-436a-bb31-6c222c93dd0a)
 
